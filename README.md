@@ -1,1 +1,4 @@
-# BackgorundStudio build2024.3.1 alpha
+# BackgorundStudio build 2024.3.1 alpha
+
+完成了大部分的功能设计，已知问题:基层窗口控件切换有记录出现失败。
+本项目已经弃用并且永久停止更新，本软件将重新进行结构设计。新的项目仍在开发中。
